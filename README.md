@@ -4,13 +4,13 @@ Disable All App IN WINDOWS
 
 # Download the script
 ```
- Invoke-WebRequest -Uri "1" -OutFile ".ps1"
+ Invoke-WebRequest -Uri "https://raw.githubusercontent.com/GiuCoder/DisableTheApp/main/disableit.ps1" -OutFile "disableit.ps1"
 ```
 
 
 # Run the script
 ```
-./DestroyThemm.ps1
+./disableit.ps1
 ```
 
 
