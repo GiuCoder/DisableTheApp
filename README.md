@@ -26,4 +26,4 @@ By using GiuCoder, you acknowledge and agree to abide by this disclaimer and the
 
 # Social Media
 
-[Youtube] : [@GiuCoder](https://www.youtube.com/channel/UCFH1zkg-QNOCk-c6mfUgCjA)
+[YouTube] : [@GiuCoder](https://www.youtube.com/channel/UCFH1zkg-QNOCk-c6mfUgCjA)
